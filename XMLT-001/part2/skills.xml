@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE skills PUBLIC "GossJS" "http://kodaktor.ru/j/dtd_0283c">
+<skills>
+  <skill type="HTML" value="7" />
+  <skill type="CSS" value="7" />
+  <skill type="JS" value="6" />
+  <skill type="React" value="7" />
+  <skill type="Redux" value="7" />
+  <skill type="Flow" value="5" />
+  <skill type="ES6" value="7" />
+</skills>

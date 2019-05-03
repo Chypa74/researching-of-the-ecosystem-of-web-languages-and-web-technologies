@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT table (student+)>
+<!ELEMENT student (score+)>
+<!ATTLIST student name CDATA #REQUIRED>
+<!ELEMENT score (#PCDATA)>
+<!ATTLIST score title CDATA #REQUIRED>
+

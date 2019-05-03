@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE table PUBLIC "GossJS" "http://kodaktor.ru/j/dtd_01aa6">
+<table>
+  <student name="John">
+    <score title="web-design">3</score>
+    <score title="Logic">4</score>
+    <score title="Graphics">5</score>
+  </student>
+  <student name="Steve">
+    <score title="web-design">4</score>
+    <score title="Logic">5</score>
+    <score title="Graphics">3</score>
+  </student>
+  <student name="Paul">
+    <score title="web-design">3</score>
+    <score title="Logic">4</score>
+    <score title="Graphics">5</score>
+  </student>
+</table>
