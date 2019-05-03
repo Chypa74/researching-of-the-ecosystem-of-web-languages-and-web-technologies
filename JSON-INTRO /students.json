@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "studentName": "John",
+      "scores": {
+        "web-design": 3,
+        "Logic": 4,
+        "Graphics": 5
+      }
+    },
+    {
+      "studentName": "Steve",
+      "scores": {
+        "web-design": 4,
+        "Logic": 5,
+        "Graphics": 3
+      }
+    },
+    {
+      "studentName": "Paul",
+      "scores": {
+        "web-design": 3,
+        "Logic": 4,
+        "Graphics": 5
+      }
+    }
+  ]
+}
