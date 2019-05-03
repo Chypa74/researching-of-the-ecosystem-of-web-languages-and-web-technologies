@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE stats PUBLIC "GossJS" "http://kodaktor.ru/j/dtd_d5824">
+<stats>
+  <popularip value="077.234.203.101" count="12" />
+  <pclist>
+    <pc type="Windows" value="26" />
+    <pc type="Linux" value="8" />
+    <pc type="MacOS" value="6" />
+  </pclist>
+  <mobilelist>
+    <mobile type="Android" value="10"/>
+    <mobile type="iPhone" value="5"/>
+    <mobile type="iPad" value="1"/>
+  </mobilelist>
+  <ips>
+    <ip addr="077.234.203.101" frequency="12" />
+    <ip addr="005.144.096.251" frequency="11"/>
+    <ip addr="081.222.086.058" frequency="6"/>
+    <ip addr="005.164.066.173" frequency="4"/>
+    <ip addr="094.019.018.060" frequency="4"/>
+  </ips>
+</stats>
