@@ -1,4 +1,4 @@
-// URL to kodaktor: https://kodaktor.ru/?!=jsin_53062
+// URL to kodaktor: https://kodaktor.ru/jsin_53062
 
 // Form fahrenheit to  celsius
 const fDeg = 32;
