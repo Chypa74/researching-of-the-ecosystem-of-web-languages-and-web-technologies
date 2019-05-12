@@ -1,1 +1,1 @@
-// URL: https://kodaktor.ru/?!=startask_81768
+// URL: https://kodaktor.ru/startask_81768
