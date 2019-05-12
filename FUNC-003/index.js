@@ -1,1 +1,1 @@
-// URL: https://kodaktor.ru/?!=func_cfbe6
+// URL: https://kodaktor.ru/func_cfbe6

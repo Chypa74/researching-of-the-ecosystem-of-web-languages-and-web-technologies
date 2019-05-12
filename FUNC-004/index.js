@@ -1,1 +1,1 @@
-// URL: https://kodaktor.ru/?!=func_44f79
+// URL: https://kodaktor.ru/func_44f79
