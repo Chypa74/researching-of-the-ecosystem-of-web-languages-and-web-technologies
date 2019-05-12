@@ -1,4 +1,4 @@
-// URL: https://kodaktor.ru/?!=startask_2b9d7
+// URL: https://kodaktor.ru/startask_2b9d7
 
 import { exampleStats } from './exampleStats';
 import compose from './utils/compose';
