@@ -1,0 +1,14 @@
+{
+  "name": "BNDL_001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Me",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.34.0",
+    "webpack-cli": "^3.3.4"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
