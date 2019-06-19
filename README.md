@@ -56,3 +56,74 @@ STARTASK
 [Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/STARTASK)
 
 
+```
+IPS_TASK
+Обработка данных из массива в JS
+```
+[Задание](https://kodaktor.ru/g/ips_task)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/IPS_TASK)
+
+
+```
+ASYNC-TASKS
+Промисы и for await of
+```
+[Задание](https://kodaktor.ru/async_tasks)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/ASYNC-TASKS)
+
+
+```
+EVNT_001
+События: управление слушателями
+```
+[Задание](https://kodaktor.ru/g/evnt_001)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/EVNT_001)
+
+
+```
+EVNT_002
+События: кастомные события, коммуникация компонентов
+```
+[Задание](https://kodaktor.ru/evnt_002)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/EVNT_002)
+
+
+```
+EVNT_003
+События: кастомные компоненты
+```
+[Задание](https://kodaktor.ru/evnt_003)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/EVNT_003)
+
+
+```
+BABL_001
+Транспиляция: поля класса
+```
+[Задание](https://kodaktor.ru/babl_001)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/BABL_001)
+
+
+```
+BABL_002
+Транспиляция: bind
+```
+[Задание](https://kodaktor.ru/babl_002)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/BABL_002)
+
+
+```
+ITER-001
+Итерабельность
+```
+[Задание](https://kodaktor.ru/iter_001)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/ITER-001)
+
+
+```
+WEBPACK – BNDL-001
+```
+[Задание](https://kodaktor.ru/g/bndl_001)
+[Результат](https://github.com/Chypa74/researching-of-the-ecosystem-of-web-languages-and-web-technologies/tree/BNDL_001)
+
+
